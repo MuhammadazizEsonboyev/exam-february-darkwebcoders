@@ -28,26 +28,6 @@ function emotify(str) {
 }
 ```
 
-[3.Equality of 3 Values](https://edabit.com/challenge/PKiTjA7SLK99ZZ8GK)
-
-Solution
-```js
-
-function emotify(str) {
-    return 
-}
-```
-[3.Equality of 3 Values](https://edabit.com/challenge/PKiTjA7SLK99ZZ8GK)
-
-Solution
-```js
-
-function emotify(str) {
-    return 
-}
-```
-
-
 [4.Special Arrays](https://edabit.com/challenge/wikfKaQm3zP7buRA4)
 
 Solution
@@ -80,7 +60,7 @@ function emotify(str) {
 }
 ```
 
-[7.Basic Arithmetic Operations](https://edabit.com/challenge/mgCKn998CNowjAZBF)
+[7.Common Divisor of Array](https://edabit.com/challenge/rSZmP2dWjEK8Gqcih)
 
 Solution
 ```js
@@ -99,7 +79,7 @@ function emotify(str) {
 }
 ```
 
-[8.Equality of 3 Values](https://edabit.com/challenge/PKiTjA7SLK99ZZ8GK)
+[8.Largest Swap](https://edabit.com/challenge/hD3euqPHM82Cbr7R8)
 
 Solution
 ```js
@@ -121,7 +101,7 @@ function emotify(str) {
 
 
 
-[9.A Simple Equation](https://edabit.com/challenge/sSmDPWAoTZ4CSxCLk)
+[10.A Simple Equation](https://edabit.com/challenge/sSmDPWAoTZ4CSxCLk)
 
 Solution
 ```js
@@ -131,12 +111,3 @@ function emotify(str) {
 }
 ```
 
-[10.Common Divisor of Array](https://edabit.com/challenge/rSZmP2dWjEK8Gqcih)
-
-Solution
-```js
-
-function emotify(str) {
-    return 
-}
-```
